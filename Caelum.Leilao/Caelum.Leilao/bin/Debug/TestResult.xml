@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Caelum.Leilao\Caelum.Leilao\bin\Debug\Caelum.Leilao.dll" total="1" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2015-11-08" time="15:22:41">
+  <environment nunit-version="2.6.4.14350" clr-version="2.0.50727.5485" os-version="Microsoft Windows NT 6.1.7601 Service Pack 1" platform="Win32NT" cwd="C:\Program Files (x86)\NUnit 2.6.4\bin" machine-name="QUANTUM" user="Administrador" user-domain="QUANTUM" />
+  <culture-info current-culture="pt-BR" current-uiculture="pt-BR" />
+  <test-suite type="Assembly" name="C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Caelum.Leilao\Caelum.Leilao\bin\Debug\Caelum.Leilao.dll" executed="True" result="Success" success="True" time="0.097" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="Caelum" executed="True" result="Success" success="True" time="0.076" asserts="0">
+        <results>
+          <test-suite type="Namespace" name="Leilao" executed="True" result="Success" success="True" time="0.076" asserts="0">
+            <results>
+              <test-suite type="TestFixture" name="AvaliadorTest" executed="True" result="Success" success="True" time="0.073" asserts="0">
+                <results>
+                  <test-case name="Caelum.Leilao.AvaliadorTest.DeveAvaliarLancesEmOrdemCrescente" executed="True" result="Success" success="True" time="0.047" asserts="2" />
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

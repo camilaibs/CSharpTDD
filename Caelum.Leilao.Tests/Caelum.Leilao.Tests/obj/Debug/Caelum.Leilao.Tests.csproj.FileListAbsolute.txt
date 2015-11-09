@@ -1,0 +1,10 @@
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Caelum.Leilao.Tests\Caelum.Leilao.Tests\obj\Debug\Caelum.Leilao.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Caelum.Leilao.Tests\Caelum.Leilao.Tests\bin\Debug\Caelum.Leilao.Tests.dll.config
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Caelum.Leilao.Tests\Caelum.Leilao.Tests\bin\Debug\Caelum.Leilao.Tests.dll
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Caelum.Leilao.Tests\Caelum.Leilao.Tests\bin\Debug\Caelum.Leilao.Tests.pdb
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Caelum.Leilao.Tests\Caelum.Leilao.Tests\bin\Debug\Caelum.Leilao.dll
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Caelum.Leilao.Tests\Caelum.Leilao.Tests\bin\Debug\nunit.framework.dll
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Caelum.Leilao.Tests\Caelum.Leilao.Tests\bin\Debug\Caelum.Leilao.pdb
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Caelum.Leilao.Tests\Caelum.Leilao.Tests\bin\Debug\nunit.framework.xml
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Caelum.Leilao.Tests\Caelum.Leilao.Tests\obj\Debug\Caelum.Leilao.Tests.dll
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Caelum.Leilao.Tests\Caelum.Leilao.Tests\obj\Debug\Caelum.Leilao.Tests.pdb

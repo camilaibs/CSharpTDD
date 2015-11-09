@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1000]Caelum.Leilao.AvaliadorTest</TopNode>
+  <SelectedNode>[0-1028]C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Caelum.Leilao.Tests\Caelum.Leilao.Tests\bin\Debug\Caelum.Leilao.Tests.dll</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1028]C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Caelum.Leilao.Tests\Caelum.Leilao.Tests\bin\Debug\Caelum.Leilao.Tests.dll" Expanded="true" />
+    <Node UniqueName="[0-1029]Caelum" Expanded="true" />
+    <Node UniqueName="[0-1030]Caelum.Leilao" Expanded="true" />
+    <Node UniqueName="[0-1000]Caelum.Leilao.AvaliadorTest" Expanded="true" />
+    <Node UniqueName="[0-1031]Caelum.Leilao.Tests" Expanded="true" />
+    <Node UniqueName="[0-1008]Caelum.Leilao.Tests.FiltroDeLancesTest" Expanded="true" />
+    <Node UniqueName="[0-1015]Caelum.Leilao.Tests.LeilaoTest" Expanded="true" />
+  </Nodes>
+</VisualState>
